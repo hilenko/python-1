@@ -1,2 +1,2 @@
-# my study *
-*PYTHON#
+# my study 
+#PYTHON
