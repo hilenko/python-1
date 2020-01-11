@@ -1,0 +1,1 @@
+[{"playername": "Donald Thurnat", "score": 1, "awards": ["NY", "NV", "RO"]}, {"playername": "Robert Joy", "score": 5, "awards": ["TX", "WI", "MI"]}]
