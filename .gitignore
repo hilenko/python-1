@@ -1,2 +1,10 @@
 .idea/
 __pycache__/
+
+#git rm --cached file1.txt
+#git commit -m "remove file1.txt"
+
+git rm -fr .idea/ --cached
+git rm -fr __pycache__/ --cached
+git commit -a -m'remove ignore folder'
+git push
