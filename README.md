@@ -1,5 +1,2 @@
-PYTHON
+PYTHON LESSONS 
 ======
-
-Level is beginner
-================ 
